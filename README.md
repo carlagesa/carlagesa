@@ -1,10 +1,8 @@
 Hi 👋 My name is Carlton Agesa
 ==============================
 
-Front-end website developer | JavaScript | React |
+Full-stack website developer |Ruby & Ruby on Rails | JavaScript | React |
 --------------------------------------------------
-
-I've been learning front-end web development for over 2 years , I am currently learning React Js . I also have knowledge in graphic design.
 
 * 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [https://carltonagesa.netlify.app/](http://carltonagesa.netlify.app/)

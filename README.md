@@ -12,8 +12,8 @@ I've been learning front-end web development for over 2 years , I am currently l
 * 🧠  I'm learning React JavaScript
 * 🤝  I'm open to collaborating on Github and other platforms
 
-<a href="https://www.twitter.com/techguy_ke" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/techguy_ke?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1e3a8a"
+<a href="https://www.twitter.com/carl_agesa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/carl_agesa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1e3a8a"
 /></a><a href="https://www.github.com/carlagesa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/carlagesa?logo=github&style=for-the-badge&color=0891b2&labelColor=1e3a8a" /></a>
 

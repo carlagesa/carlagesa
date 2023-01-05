@@ -6,12 +6,18 @@ Web Developer
 
 I am a full-stack web developer based in Nairobi, Kenya. I have sharpened my skills over the years and gained proficiency both in technical and soft skills throughout my career. I believe in working as a team to ensure that set standards are met.
 
-*   🌍  I'm based in Nairobi, Kenya
-*   ✉️  You can contact me at [carltonagesa@gmail.com](mailto:carltonagesa@gmail.com)
-*   🤝  I'm open to collaborating on interesting projects.<a href="https://www.github.com/carlagesa" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/carlagesa?logo=github&style=for-the-badge&color=0891b2&labelColor=312e81" /></a><a href="https://www.twitter.com/carl_agesa" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/carl_agesa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=312e81"
-                /></a>### Skills 
+* 🌍  I'm based in Nairobi, Kenya
+* ✉️  You can contact me at [carltonagesa@gmail.com](mailto:carltonagesa@gmail.com)
+* 🤝  I'm open to collaborating on interesting projects.
+
+<a href="https://www.github.com/carlagesa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/carlagesa?logo=github&style=for-the-badge&color=0891b2&labelColor=312e81" /></a><a href="https://www.twitter.com/carl_agesa" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/carl_agesa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=312e81"
+/></a>
+
+### Skills
+
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a>
@@ -28,17 +34,16 @@ I am a full-stack web developer based in Nairobi, Kenya. I have sharpened my ski
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.dev.to/carlton_agesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/carlagesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/carltonagesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/carl_agesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/carlagesa"><img src="https://github-readme-stats.vercel.app/api?username=carlagesa&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="carlagesa's GitHub stats" /></a><a href="https://github.com/carlagesa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlagesa&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/carlton_agesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/carlagesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carltonagesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/carl_agesa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/carlagesa"><img src="https://github-readme-stats.vercel.app/api?username=carlagesa&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&show_icons=true" alt="carlagesa's GitHub stats" /></a>
+
+<a href="https://github.com/carlagesa" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlagesa&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

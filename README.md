@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carlton Agesa
 =====================================================================================================================================
 
-Web Developer
+Backend Developer
 -------------
 
-I am a full-stack web developer based in Nairobi, Kenya. I have sharpened my skills over the years and gained proficiency both in technical and soft skills throughout my career. I believe in working as a team to ensure that set standards are met.
+I am a backend developer based in Nairobi, Kenya. My job includes creating and managing the server-side logic, connecting the application to a database, creating server-side APIs, handling user authentication and authorization, and processing and responding to user requests
+I have sharpened my skills over the years and gained proficiency both in technical and soft skills throughout my career. I believe in working as a team to ensure that set standards are met.
 
 * 🌍  I'm based in Nairobi, Kenya
 * ✉️  You can contact me at [carltonagesa@gmail.com](mailto:carltonagesa@gmail.com)

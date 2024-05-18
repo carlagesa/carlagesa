@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in dev.to posts
-        uses: carlagesa/blog-post-workflow@master
+        uses: carlagesa/github/workflows/blog-post-workflow.yml@master
         with:
           feed_list: "https://www.dev.to/carlton_agesa"

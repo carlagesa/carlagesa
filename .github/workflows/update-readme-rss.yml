@@ -1,16 +1,21 @@
-name: Update readme with blog posts
-on: 
-  schedule:
-    # Once a day at 8 AM
-    - cron: 0 8 * * *
+name: Generate Blog List
 
+on:
+  push:
+  schedule:
+    - cron: "0 */1 * * *"
 jobs:
-  update:
+  blog:
     runs-on: ubuntu-latest
+    name: Fetch and Generate Blog Posts
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
+      - uses: actions/checkout@v3
+      - name: GitHub Readme Blog Post Action
+        uses: ErrorGamer2000/github-readme-blog-post-action@v1
         with:
-          feed-url: https://lukelowrey.com/rss/
-          readme-section: feed
-          max: 10 # max number of items (default 5)
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
+          feed_urls: "{https://rss.app/feeds/MdXEFVY8ZNpiZlLk.xml}"
+      - name: Commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Save Generated Blog Posts
+          skip_checkout: true

@@ -1,10 +1,10 @@
 Hi 👋 My name is Carlton Agesa
 ==============================
 
-Backend Developer
+AWS Solutions Architect
 -----------------
 
-I am a backend developer based in Nairobi, Kenya. My job includes creating and managing the server-side logic, connecting the application to a database, creating server-side APIs, handling user authentication and authorization, and processing and responding to user requests I have sharpened my skills over the years and gained proficiency both in technical and soft skills throughout my career. I believe in working as a team to ensure that set standards are met.
+I am a certified AWS Solutions Architect with extensive backend knowledge using Python. I enjoy building and deploying code on the AWS cloud, managing server-side logic, linking applications to databases, developing server-side APIs, handling user authentication and authorization, and processing user requests.
 
 * 🖥️  See my portfolio at [carltonagesa.netlify.app](http://https://carltonagesa.netlify.app/)
 * ✉️  You can contact me at [carltonagesa@gmail.com](mailto:carltonagesa@gmail.com)
